@@ -1,0 +1,20 @@
+{
+    "name": "jeniffer-hinckel/api-rest-php",
+    "description": "API REST com PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "ApiRestPhp\\": "App"
+        },
+        "files": [
+            "config.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "jenifferhinckel",
+            "email": "jeniffer.hinckel@gmail.com"
+        }
+    ],
+    "require": {}
+}
